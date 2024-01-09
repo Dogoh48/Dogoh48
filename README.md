@@ -15,4 +15,4 @@ My name is Brave, a freshman software and knowledge engineering student at Kaset
 
 # 📊 GitHub Stats:
 ![Dogoh48's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dogoh48&show_icons=true&theme=radical)
-![Most use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogoh48&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false&layout=donut-vertical)
+![Most use Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogoh48&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false&layout=donut)
