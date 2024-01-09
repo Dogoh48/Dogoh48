@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🚀 Hello World! 🌏
+
+# >_ Let's me introduce myself: 
+My name is Brave, a freshman software and knowledge engineering student at Kasetsart University. I has a Machine Learning, Natural Language Processing and Computer Vision development background from Super AI Engineer SS3. currently i focuses on developing my data/software engineering skills.
+
 
 <!--
 **Dogoh48/Dogoh48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
