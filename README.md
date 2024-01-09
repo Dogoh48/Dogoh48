@@ -2,7 +2,19 @@
 My name is Brave, a freshman software and knowledge engineering student at Kasetsart University. I has a Machine Learning, Natural Language Processing and Computer Vision development background from Super AI Engineer SS3. currently i focuses on developing my data/software engineering skills.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/brave2885) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/KrittinSetdhavanich](https://web.facebook.com/profile.php?id=100028080111775)) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]([https://instagram.com/jjkrittin](https://www.kaggle.com/maewmeow)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/KrittinSetdhavanich](https://www.linkedin.com/in/patcharawat-piyapatapeekul)) 
+<a href="patcharawatpiyapatapeekul@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.kaggle.com/maewmeow">
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
+<a href="https://web.facebook.com/profile.php?id=100028080111775">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/patcharawat-piyapatapeekul-94b040257/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<br>
 
 <!--
 **Dogoh48/Dogoh48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
