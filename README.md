@@ -17,8 +17,3 @@ My name is Brave, a freshman software and knowledge engineering student at Kaset
 ![](https://github-readme-stats.vercel.app/api?username=Dogoh48&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dogoh48&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogoh48&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dogoh48&icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
