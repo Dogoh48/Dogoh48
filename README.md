@@ -2,9 +2,6 @@
 My name is Brave, a freshman software and knowledge engineering student at Kasetsart University. I has a Machine Learning, Natural Language Processing and Computer Vision development background from Super AI Engineer SS3. currently i focuses on developing my data/software engineering skills.
 
 ## 🌐 Socials:
-<a href="patcharawatpiyapatapeekul@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 <a href="https://www.kaggle.com/maewmeow">
 <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
@@ -15,6 +12,11 @@ My name is Brave, a freshman software and knowledge engineering student at Kaset
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dogoh48&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dogoh48&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogoh48&theme=flag-india&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!--
 **Dogoh48/Dogoh48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
